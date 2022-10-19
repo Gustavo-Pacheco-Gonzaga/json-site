@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/custom-classes.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/6fd4d45242.js" crossorigin="anonymous"></script>
+    <link id="page-icon" rel="shortcut icon" type="imagex/png" href="">
+    <title>CONDSIS</title>
+</head>
+
+<body>
+    <header class="flex">
+        <a id="logo-link" href="./index.html"><img id="logo-img" src="" alt=""></a>
+        <nav class="flex">
+            <ul id="menu-ul" class="flex"></ul>
+            <div id="menu-mobile" class="flex">
+                <div id="toggle-menu-mobile" class="flex column">
+                    <span id="left"></span>
+                    <span id="middle"></span>
+                    <span id="right"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="background-menu"></div>
+    <!-- secao 1 -->
+    <video id="secao1-video" autoplay loop muted src="./Midias/file.mp4"></video>
+    <a id="secao1-img" href="#secao2"><img src="./Midias/arrow.png" alt=""></a>
+
+    <!-- secao 4 -->
+    <form action="#" id="secao4-formulario" class="flex column">
+        <div class="flex wrap">
+            <input type="text" placeholder="Nome *" required>
+            <input class="margin-input" type="text" placeholder="Sobrenome *" required>
+            <input type="text" placeholder="Email *" required>
+            <input class="margin-input" type="text" placeholder="Telefone">
+
+            <textarea name="" id="" cols="30" rows="4" placeholder="Digite sua mensagem aqui *" required></textarea>
+        </div>
+        <button id="secao4-button">ENVIAR MENSAGEM</button>
+    </form>
+
+    <iframe id="mapa" allowfullscreen="false" loading="lazy"></iframe>
+
+    <script src="js/menu.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

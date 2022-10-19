@@ -1,0 +1,128 @@
+{
+    "nome": "EMPRESA TESTE",
+    "icone": "SIMBOLO SEM FUNDO.png",
+    "logo": "logo.png",
+    "cor_principal": "#40C2FB",
+    "botao_flutuante": {
+        "exibir": true,
+        "icone": {
+            "tipo": "fa-brands",
+            "nome": "fa-whatsapp"
+        },
+        "texto": "CHAMA NO CHAT",
+        "link": "https://mensagens...."
+    },
+    "menu": [
+        {
+            "texto": "Quem somos",
+            "link": "#secao2",
+            "tem_destaque": false
+        },
+        {
+            "texto": "Serviços",
+            "link": "#secao3",
+            "tem_destaque": false
+        },
+        {
+            "texto": "Contato",
+            "link": "#secao4",
+            "tem_destaque": false
+        },
+        {
+            "texto": "Localização",
+            "link": "#secao5",
+            "tem_destaque": false
+        },
+        {
+            "texto": "Área do Condômino",
+            "link": "https://app.condsis.com",
+            "tem_destaque": true
+        }
+    ],
+    "secao1": {
+        "texto": "Um sistema inteligente criado para Síndicos e Administradoras de condomínios.",
+        "texto_botao": "ENTRAR EM CONTATO",
+        "link_botao": "#secao3"
+    },
+    "secao2": {
+        "titulo": "Acesse de qualquer dispositivo!",
+        "texto": "O CONDSIS é um sistema responsivo que se adapta em qualquer tipo de tela.",
+        "imagem": "aerial-architecture-black-and-white-700974_copiar_cópia.jpg"
+    },
+    "secao3": {
+        "titulo": "RESOLVA SUAS TAREFAS COM MAIS FACILIDADE",
+        "itens": [
+            {
+                "titulo": "Gestão Financeira",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-money-bill"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Faturas",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-dollar-sign"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Gestão Financeira",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-money-bill"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Faturas",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-dollar-sign"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Gestão Financeira",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-money-bill"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Faturas",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-dollar-sign"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            },
+            {
+                "titulo": "Gestão Financeira",
+                "icone": {
+                    "tipo": "fa-solid",
+                    "nome": "fa-money-bill"
+                },
+                "texto": "Controle o caixa do seu condomínio de maneira eficaz registrando as entradas e saídas."
+            }
+        ]
+    },
+    "secao4": {
+        "titulo": "CONTATO",
+        "subtitulo": "Ficou alguma dúvida?"
+    },
+    "secao5": {
+        "nome": "NOME FANTASIA",
+        "endereco": "rua das ruas, CEP: 0000-000",
+        "telefones": "(48)000000000 / (48)000000000",
+        "emails": "contato@teste.com / contato2@teste.com",
+        "horario_atendimento": "Seg - sex de 8:00 à 12:00 e de 13:30 às 17:30. Sáb de 8:00 á 12:00.",
+        "localizacao": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112112.64989475872!2d-48.836818758183746!3d-28.58416380253931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9523fdee0e32a2db%3A0xd1b43f00a69b39d2!2sFarol%20de%20Santa%20Marta!5e0!3m2!1spt-BR!2sbr!4v1651136341225!5m2!1spt-BR!2sbr",
+        "instagram": "https://",
+        "facebook": "",
+        "whatsapp": "https://wa.me/"
+    }
+}
