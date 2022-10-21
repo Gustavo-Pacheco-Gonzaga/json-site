@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Open Sans Regular";
+    src: url(../fontes/OpenSans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Open Sans Bold";
+    src: url(../fontes/OpenSans/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Open Sans Light";
+    src: url(../fontes/OpenSans/OpenSans-Light.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Open Sans Regular';
+    scroll-behavior: smooth;
+    outline: none;
+}
+
+button {
+    background: none;
+    border: 1px solid #00aefa;
+}
+
+span{
+    font-size: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.hide{
+    display: none;
+}
+
+.hide-menu{
+    top: -100%;
+}
+
+.font-bold {
+    font-family: "Open Sans Bold";
+}
+
+.font-thin {
+    font-family: "Open Sans Light";
+}
+
+.font-light-gray {
+    color: #a1b4bf;
+}
+
+.font-white{
+    color: #fff;
+}
